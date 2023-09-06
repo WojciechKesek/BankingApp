@@ -1,8 +1,8 @@
 # BankingApp
-It is an application that simulates the operation of a banking application
+This application serves as a simulation of a banking system's operations.
 
-The application was written as an exercise in I/O operations, lambda expressions, Java Collections and JUnit
+It was made as an exercise of I/O operations,  lambda expressions, Java Collections , and testing using JUnit.
 
-Accounts and transactions are loaded from and saved to separate txt files.
+The application loads and saves account and transaction data from distinct text files.
 
-Every method is tested
+Every method has been tested.
